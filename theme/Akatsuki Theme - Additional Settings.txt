@@ -1,0 +1,15 @@
+Additional Settings:
+
+- Background Image: View > Background > Set image wallpaper... > Choose the Wallpaper from the Theme Package "Akatsuki Pattern by Flashback One.jpg"
+
+- Playlist Background Image: Drag+Drop the "Akatsuki Members by Flashback One.png" from the Theme Package into your Playlist Window (where the grid is)
+
+- Playlist Grid Color: Playlist Options (Arrow on the top left) > View > Grid color... > "#" Button for HEX-Color > #371C1C
+
+- Piano Roll Grid Color: Piano Roll Options (Arrow on the top left) > View > Grid color... > "#" Button for HEX-Color > #371C1C
+
+- Piano Roll Note Color: Piano Roll Options (Arrow on the top left) > View > Note colors > Edit Palette... > "#" Button for HEX-Color > #EA201B
+
+Greets 
+Flashback One
+Instagram: @flashback_one_official
