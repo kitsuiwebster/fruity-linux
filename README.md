@@ -70,7 +70,7 @@ In the FL Studio installation directory, go to `Plugins/VST` (create the `VST` d
 
 ### 🎨 Add custom themes
 
-In the FL Studio installation directory, go to `Artwork/Themes` and copy your custom theme in this folder. Your can find custom themes on [this page](https://forum.image-line.com/viewforum.php?f=2003) or [this page](https://stickz.co/blog/top-10-best-fl-studio-21-themes/). My custom theme is available in the `theme` folder.
+In your `Documents`, go to `Image-Line/FL-Studio/Settings/Themes` and copy your custom theme in this folder. Your can find custom themes on [this page](https://forum.image-line.com/viewforum.php?f=2003) or [this page](https://stickz.co/blog/top-10-best-fl-studio-21-themes/). My custom theme is available in the `theme` folder.
 
 Now you can select your custom theme in FL Studio by going to Options > Theme settings.
 
